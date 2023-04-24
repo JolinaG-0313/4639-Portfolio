@@ -1,0 +1,11 @@
+{
+  "homepage": "https://github.com/JolinaG-0313/4639-Portfolio.git", 
+  "scripts": {
+    "deploy": "gh-pages -d web-build",
+    "predeploy": "expo export:web"
+  },  
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
+
